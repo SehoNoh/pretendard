@@ -623,7 +623,14 @@ Pretendard에 기여해주셔서 진심으로 감사드립니다.
       <picture>
          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/66673866/1177156a-5e5f-4270-b150-57e5333eea24">
          <img src="https://github.com/orioncactus/pretendard/assets/66673866/7961fe5e-23b3-48c0-9abb-6719cc2c133f"
-         align="center" height="32" alt="페이지콜" hspace="16">
+         align="center" height="40" alt="페이지콜" hspace="16">
+      </picture>
+   </a>
+  <a href="https://veluga.kr/">
+      <picture>
+         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orioncactus/pretendard/assets/1144643/e7792aad-6da7-4643-afc6-78b643d81f82">
+         <img src="https://github.com/orioncactus/pretendard/assets/1144643/e7792aad-6da7-4643-afc6-78b643d81f82"
+         align="center" height="40" alt="벨루가브루어리 주식회사" hspace="16">
       </picture>
    </a>
 </p>
